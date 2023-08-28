@@ -1,4 +1,6 @@
 # apnacollege-demo
-This is my third  Repository.
+
+This is my third Git Repository.
 <br>
-Author - Pooja Kurikayar
+Author - Pooja (Apna College)
+
